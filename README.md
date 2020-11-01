@@ -7,7 +7,6 @@ Here I show some highlights of results I have gotten through my career.
 My undergraduate thesis was on extending multi resolution schemes to ellipsoids, or in other words, apply subdivision schemes to curves on the surfaces of ellipsoids (this was not published but I am currently trying to fix that :)).
 
 [![curve](https://img.youtube.com/vi/QLUupkQN1lA/0.jpg)](https://www.youtube.com/watch?v=QLUupkQN1lA)
-https://github.com/Makogan/makogan.github.io/blob/main/images/ES1.png
 ![curve](/images/ES1.png)
 ![curve](/images/rcurve1.png)
 ![curve](/images/rcurve2.png)
