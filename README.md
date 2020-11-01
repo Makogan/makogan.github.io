@@ -6,5 +6,5 @@ Here I show some highlights of results I have gotten through my career.
 
 Here are some of my undergraduate projects that I did as part of courses:
 
-[](images/baymax.png)
+[](/images/baymax.png)
 
