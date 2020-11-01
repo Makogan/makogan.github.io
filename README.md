@@ -2,17 +2,29 @@
 
 Here I show some highlights of results I have gotten through my career.  
 
+# Undergraduate Thesis
+
+My undergraduate thesis was on extending multi resolution schemes to ellipsoids, or in other words, apply subdivision schemes to curves on the surfaces of ellipsoids (this was not published but I am currently trying to fix that :)).
+
+[![curve](https://img.youtube.com/vi/QLUupkQN1lA/0.jpg)](https://www.youtube.com/watch?v=QLUupkQN1lA)
+https://github.com/Makogan/makogan.github.io/blob/main/images/ES1.png
+![curve](/images/ES1.png)
+![curve](/images/rcurve1.png)
+![curve](/images/rcurve2.png)
+![curve](/images/rcurve3.png)
+
 ## Personal
 
 These are old projects I did outside of a school setting out of personal interest:
 
+### Voxel Tracing
 
-### Voxel Terrain Generator
+Implemented a voxel tracer and applied it to the sponza scene:
 
-We have all done this project based on perlin noise at one point, here's mine:
-
-![vworld](/images/vWorld.png)
-
+![dragon](/images/sponza-big.png)
+![dragon](/images/sponza-blocks.png)
+![dragon](/images/spot-light.png)
+![dragon](/images/sponza-normals.png)
 
 ### Real time voxelizer
 
@@ -22,6 +34,13 @@ Implemented GPU voxelization of arbitrary geometry in real time. The technique i
 ![dragon](/images/dragon1.png)
 ![dragon](/images/dragon2.png)
 ![dragon](/images/dragon3.png)
+
+
+### Voxel Terrain Generator
+
+We have all done this project based on perlin noise at one point, here's mine:
+
+![vworld](/images/vWorld.png)
 
 
 ## Undergrad
@@ -40,6 +59,7 @@ Procedural animations made for the computer animation course. Both simulations a
 ### Boids
 
 Bird-oid objects. A swarm simulation project done as part of an emergent computing course:
+
 [![Drapes](https://img.youtube.com/vi/2bqgjB5dBTI/0.jpg)](https://www.youtube.com/watch?v=2bqgjB5dBTI)
 
 
@@ -50,6 +70,8 @@ Haptic rubber like object defformation. Done as part os a special topics course 
 (I have no video, as we never thought of recording it and I don;t have neither the source code nor a Novint Falcon to run it anymore).
 
 ![baymax](/images/baymax.png)
+![baymax](/images/haptic1.png)
+![baymax](/images/haptic2.png)
 
 
 ### Cornell Box and Orrery
