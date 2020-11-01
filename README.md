@@ -9,19 +9,24 @@ These are old projects I did outside of a school setting out of personal interes
 
 ### Voxel Terrain Generator
 
-We have all done this at one point, here's mine:
+We have all done this project based on perlin noise at one point, here's mine:
+
 ![vworld](/images/vWorld.png)
 
+
+### Real time voxelizer
+
+Implemented GPU voxelization of arbitrary geometry in real time. The technique is based on using the 2D rasterizer to generate the voxels, then storing the result in either a sparse voxel oct tree or an 3D image storage buffer.
+
+[![voxelizer](https://img.youtube.com/vi/m2u0ag_exGU/0.jpg)](https://www.youtube.com/watch?v=m2u0ag_exGU)
+![dragon](/images/dragon1.png)
+![dragon](/images/dragon2.png)
+![dragon](/images/dragon3.png)
 
 
 ## Undergrad
 
 Here are some of my undergraduate projects that I did as part of courses:
-
-### Boids
-
-Bird-oid objects. A swarm simulation project done as part of an emergent computing course:
-[![Drapes](https://img.youtube.com/vi/2bqgjB5dBTI/0.jpg)](https://www.youtube.com/watch?v=2bqgjB5dBTI)
 
 
 ### Cloth Simulation and Jiggly Cube
@@ -30,6 +35,12 @@ Procedural animations made for the computer animation course. Both simulations a
 
 [![Drapes](https://img.youtube.com/vi/Tld5ht3pEYw/0.jpg)](https://www.youtube.com/watch?v=Tld5ht3pEYw)
 [![cube](https://img.youtube.com/vi/HzFFASwVX1Q/0.jpg)](https://www.youtube.com/watch?v=HzFFASwVX1Q)
+
+
+### Boids
+
+Bird-oid objects. A swarm simulation project done as part of an emergent computing course:
+[![Drapes](https://img.youtube.com/vi/2bqgjB5dBTI/0.jpg)](https://www.youtube.com/watch?v=2bqgjB5dBTI)
 
 
 ### Haptic deformation
