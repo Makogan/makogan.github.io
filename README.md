@@ -7,7 +7,8 @@ Here I show some highlights of results I have gotten through my career.
 Here are some of my undergraduate projects that I did as part of courses:
 
 This short video does not include all of them but it does show some of them running:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BlaYyQLniiI&t/0.jpg)](https://www.youtube.com/watch?v=BlaYyQLniiI&t=29s)
+
+[![overview](https://img.youtube.com/vi/BlaYyQLniiI&t/0.jpg)](https://www.youtube.com/watch?v=BlaYyQLniiI&t)
 
 ## Haptic deformation
 
