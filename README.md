@@ -2,9 +2,15 @@
 
 Here I show some highlights of results I have gotten through my career.  
 
-### Undergrad
+## Undergrad
 
 Here are some of my undergraduate projects that I did as part of courses:
 
-![baymax](/images/baymax.png)
+This short video does not include all of them but it does show some of them running:
+![](https://www.youtube.com/watch?v=BlaYyQLniiI&t=29s)
 
+## Haptic deformation
+
+Haptic rubber like object defformation. DOne as part os a special topics course on computer haptics. The project displays a possible technique inspired on spring mass models to allow users to interact with deformable objects that felt somewhat like rubber.
+
+![baymax](/images/baymax.png)
