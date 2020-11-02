@@ -6,7 +6,10 @@ Here I show some highlights of results I have obtained from different projects t
 
 My undergraduate thesis was on extending multi resolution schemes to ellipsoids, or in other words, apply subdivision schemes to curves on the surfaces of ellipsoids (this was not published but that may change soon :)).
 
+**video**
+
 [![curve](https://img.youtube.com/vi/QLUupkQN1lA/0.jpg)](https://www.youtube.com/watch?v=QLUupkQN1lA)
+
 ![curve](/images/ES1.png)
 ![curve](/images/rcurve1.png)
 ![curve](/images/rcurve2.png)
@@ -28,6 +31,8 @@ Implemented a voxel tracer and applied it to the sponza scene:
 ### Real time voxelizer
 
 Implemented GPU voxelization of arbitrary geometry in real time. The technique is based on using the 2D rasterizer to generate the voxels, then storing the result in either a sparse voxel oct tree or an 3D image storage buffer.
+
+**video**
 
 [![voxelizer](https://img.youtube.com/vi/m2u0ag_exGU/0.jpg)](https://www.youtube.com/watch?v=m2u0ag_exGU)
 
@@ -52,13 +57,20 @@ Here are some of my undergraduate projects that I did as part of courses:
 
 Procedural animations made for the computer animation course. Both simulations are based on spring mass systems. The wind in the drap scene was generated through 2D perlin noise that pplied a force tangential to the current normal of each vertex.
 
+**video**
+
 [![Drapes](https://img.youtube.com/vi/Tld5ht3pEYw/0.jpg)](https://www.youtube.com/watch?v=Tld5ht3pEYw)
+
+**video**
+
 [![cube](https://img.youtube.com/vi/HzFFASwVX1Q/0.jpg)](https://www.youtube.com/watch?v=HzFFASwVX1Q)
 
 
 ### Boids
 
 Bird-oid objects. A swarm simulation project done as part of an emergent computing course:
+
+**video**
 
 [![Drapes](https://img.youtube.com/vi/2bqgjB5dBTI/0.jpg)](https://www.youtube.com/watch?v=2bqgjB5dBTI)
 
@@ -77,6 +89,8 @@ Haptic rubber like object defformation. Done as part of a special topics course 
 ### Cornell Box and Orrery
 
 Introduction to computer graphics. The cornell box was my first raytraced project, the orrery is a non scientific model of our solar system, including all the satelites of every planet and day/night rendering for the earth.
+
+**video**
 
 [![overview](https://img.youtube.com/vi/BlaYyQLniiI/0.jpg)](https://www.youtube.com/watch?v=BlaYyQLniiI)
 
