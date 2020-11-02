@@ -1,12 +1,15 @@
 # Makogan
 
-I am a computer scientist focused on computer graphics. I really like research and learning and want to be a full time researcher in computer graphics.
+My name is Camilo Talero, and I am a computer scientist specializing in the field of
+Computer Graphics. Having graduated from the University of Calgary in 2018 with an
+honours degree in computer science and a minor in Pure Math, I have since been applying
+my skills to multiple projects, with the hopes of eventually becoming a full-time researcher.
 
-Currently I am making my own rendering engine, focused on making research prototypes as easy as possible.
-
-However you should also take a look at [my old projects](/projects.md).
-
-You should also check [my proof repository](https://gitlab.com/Makogan/mathproofs) where I have proven some facts about papers and algorithms I am interested about, my favourites are the proofs on b splines and the proofs on gaussian subdivision.
+Currently, I am making my own rendering engine, focused on making research prototypes as easy
+as possible; however, you should also take a look at my [my old projects](/projects.md).
+In addition, I have a [proof repository](https://gitlab.com/Makogan/mathproofs) where
+I have proven some facts about papers and algorithms I am interested about, with my
+favourites being the proofs on b splines and those on gaussian subdivision.
 
 
 ## Engine highlights

@@ -1,10 +1,10 @@
-## Welcome to my projects highlight.
+## Welcome to my projects highlight!
 
-Here I show some highlights of results I have gotten through my career.
+Here I show some highlights of results I have obtained from different projects throughout my studies and in my spare time.
 
 # Undergraduate Thesis
 
-My undergraduate thesis was on extending multi resolution schemes to ellipsoids, or in other words, apply subdivision schemes to curves on the surfaces of ellipsoids (this was not published but I am currently trying to fix that :)).
+My undergraduate thesis was on extending multi resolution schemes to ellipsoids, or in other words, apply subdivision schemes to curves on the surfaces of ellipsoids (this was not published but that may change soon :)).
 
 [![curve](https://img.youtube.com/vi/QLUupkQN1lA/0.jpg)](https://www.youtube.com/watch?v=QLUupkQN1lA)
 ![curve](/images/ES1.png)
@@ -65,9 +65,9 @@ Bird-oid objects. A swarm simulation project done as part of an emergent computi
 
 ### Haptic deformation
 
-Haptic rubber like object defformation. Done as part os a special topics course on computer haptics. The project displays a possible technique inspired on spring mass models to allow users to interact with deformable objects that felt somewhat like rubber.
+Haptic rubber like object defformation. Done as part of a special topics course on computer haptics. The project displays a possible technique inspired on spring mass models to allow users to interact with deformable objects that felt somewhat like rubber.
 
-(I have no video, as we never thought of recording it and I don;t have neither the source code nor a Novint Falcon to run it anymore).
+(I have no video, as we never thought of recording it and I don't have neither the source code nor a Novint Falcon to run it anymore).
 
 ![baymax](/images/baymax.png)
 ![baymax](/images/haptic1.jpg)
