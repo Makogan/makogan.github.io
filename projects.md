@@ -30,9 +30,10 @@ Implemented a voxel tracer and applied it to the sponza scene:
 Implemented GPU voxelization of arbitrary geometry in real time. The technique is based on using the 2D rasterizer to generate the voxels, then storing the result in either a sparse voxel oct tree or an 3D image storage buffer.
 
 [![voxelizer](https://img.youtube.com/vi/m2u0ag_exGU/0.jpg)](https://www.youtube.com/watch?v=m2u0ag_exGU)
-![dragon](/images/dragon1.png)
-![dragon](/images/dragon2.png)
-![dragon](/images/dragon3.png)
+
+![dragon](/images/drag1.png)
+![dragon](/images/drag2.png)
+![dragon](/images/drag3.png)
 
 
 ### Voxel Terrain Generator
@@ -69,14 +70,14 @@ Haptic rubber like object defformation. Done as part os a special topics course 
 (I have no video, as we never thought of recording it and I don;t have neither the source code nor a Novint Falcon to run it anymore).
 
 ![baymax](/images/baymax.png)
-![baymax](/images/haptic1.png)
-![baymax](/images/haptic2.png)
+![baymax](/images/haptic1.jpg)
+![baymax](/images/haptic2.jpg)
 
 
 ### Cornell Box and Orrery
 
 Introduction to computer graphics. The cornell box was my first raytraced project, the orrery is a non scientific model of our solar system, including all the satelites of every planet and day/night rendering for the earth.
 
-[![overview](https://img.youtube.com/vi/BlaYyQLniiI&t/0.jpg)](https://www.youtube.com/watch?v=BlaYyQLniiI&t)
+[![overview](https://img.youtube.com/vi/BlaYyQLniiI/0.jpg)](https://www.youtube.com/watch?v=BlaYyQLniiI)
 
 ![cornell box](/images/box-scene.jpg)

@@ -16,7 +16,7 @@ These are some neat algorithms I have implemented in my current engine, which is
 
 ### Gaussian Subdivision
 
-Gaussian subdivision is a 2019 SIGGRAPH paper, it is a very interesting generalization of subdivision surfaces using gaussian distributions at every point.
+Gaussian subdivision is a 2019 SIGGRAPH paper, it is a generalization of subdivision surfaces using gaussian distributions at every point.
 
 This is a guassian loop subdivided bunny where the gaussian distributions at the vertices where randomly generated.
 
