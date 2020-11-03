@@ -91,7 +91,7 @@ Haptic rubber like object defformation. Done as part of a special topics course 
 Introduction to computer graphics. The cornell box was my first raytraced project, the orrery is a non scientific model of our solar system, including all the satelites of every planet and day/night rendering for the earth.
 
 **video**
-
-[![overview](https://img.youtube.com/vi/BlaYyQLniiI/0.jpg)](https://www.youtube.com/watch?v=BlaYyQLniiI)
+<iframe width="420" height="345" src="https://www.youtube.com/watch?v=BlaYyQLniiI">
+</iframe>
 
 ![cornell box](/images/box-scene.jpg)
