@@ -9,6 +9,7 @@ My undergraduate thesis was on extending multi resolution schemes to ellipsoids,
 **video**
 
 [![curve](https://img.youtube.com/vi/QLUupkQN1lA/0.jpg)](https://www.youtube.com/watch?v=QLUupkQN1lA)
+
 ![curve](/images/ES1.png)
 ![curve](/images/rcurve1.png)
 ![curve](/images/rcurve2.png)
@@ -91,6 +92,6 @@ Introduction to computer graphics. The cornell box was my first raytraced projec
 
 **video**
 
-[![overview](https://img.youtube.com/vi/BlaYyQLniiI/0.jpg)](https://www.youtube.com/watch?v=BlaYyQLniiI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BlaYyQLniiI"></iframe>
 
 ![cornell box](/images/box-scene.jpg)
