@@ -8,7 +8,7 @@ My undergraduate thesis was on extending multi resolution schemes to ellipsoids,
 
 **video**
 
-[![curve](https://img.youtube.com/vi/QLUupkQN1lA/0.jpg)](https://www.youtube.com/watch?v=QLUupkQN1lA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QLUupkQN1lA"></iframe>
 
 ![curve](/images/ES1.png)
 ![curve](/images/rcurve1.png)
@@ -34,7 +34,7 @@ Implemented GPU voxelization of arbitrary geometry in real time. The technique i
 
 **video**
 
-[![voxelizer](https://img.youtube.com/vi/m2u0ag_exGU/0.jpg)](https://www.youtube.com/watch?v=m2u0ag_exGU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m2u0ag_exGU"></iframe>
 
 ![dragon](/images/drag1.png)
 ![dragon](/images/drag2.png)
@@ -59,11 +59,11 @@ Procedural animations made for the computer animation course. Both simulations a
 
 **video**
 
-[![Drapes](https://img.youtube.com/vi/Tld5ht3pEYw/0.jpg)](https://www.youtube.com/watch?v=Tld5ht3pEYw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tld5ht3pEYw"></iframe>
 
 **video**
 
-[![cube](https://img.youtube.com/vi/HzFFASwVX1Q/0.jpg)](https://www.youtube.com/watch?v=HzFFASwVX1Q)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HzFFASwVX1Q"></iframe>
 
 
 ### Boids
@@ -72,7 +72,7 @@ Bird-oid objects. A swarm simulation project done as part of an emergent computi
 
 **video**
 
-[![Drapes](https://img.youtube.com/vi/2bqgjB5dBTI/0.jpg)](https://www.youtube.com/watch?v=2bqgjB5dBTI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2bqgjB5dBTI"></iframe>
 
 
 ### Haptic deformation
