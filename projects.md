@@ -9,7 +9,6 @@ My undergraduate thesis was on extending multi resolution schemes to ellipsoids,
 **video**
 
 [![curve](https://img.youtube.com/vi/QLUupkQN1lA/0.jpg)](https://www.youtube.com/watch?v=QLUupkQN1lA)
-
 ![curve](/images/ES1.png)
 ![curve](/images/rcurve1.png)
 ![curve](/images/rcurve2.png)
@@ -91,7 +90,7 @@ Haptic rubber like object defformation. Done as part of a special topics course 
 Introduction to computer graphics. The cornell box was my first raytraced project, the orrery is a non scientific model of our solar system, including all the satelites of every planet and day/night rendering for the earth.
 
 **video**
-<iframe width="420" height="345" src="https://www.youtube.com/watch?v=BlaYyQLniiI">
-</iframe>
+
+[![overview](https://img.youtube.com/vi/BlaYyQLniiI/0.jpg)](https://www.youtube.com/watch?v=BlaYyQLniiI)
 
 ![cornell box](/images/box-scene.jpg)
