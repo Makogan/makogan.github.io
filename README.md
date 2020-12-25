@@ -29,6 +29,13 @@ This is a guassian loop subdivided cube where only one of the vertices has a non
 
 ![cube](/images/gcube.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8qgHe-SLDJw"></iframe>
+
+
+And this is a sample of Gaussian subdivision used foir terrain generation:
+
+![Terrain](/images/Terrain.png)
+
 ### Polyhedral Exact Geodesics
 
 I have a partial implementation of the MMP algorithm for exact geodesics (coded entirely by me):
